@@ -1,0 +1,9 @@
+{
+  "places":[
+    {"name" : "Home", "adress" : "Madeira"},
+    {"name" : "Work", "adress" : "Alameda"},
+    {"name" : "Teste", "adress" : "Madeira st 5"},
+    {"name" : "Da", "adress" : "Jandira"},
+    {"name" : "Ama", "adress" : "Lar"},
+  ]
+}
