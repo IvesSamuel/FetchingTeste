@@ -1,4 +1,6 @@
 {
+   "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
   "places":[
     {"id": "5","name" : "Home", "adress" : "Madeira"},
     {"id": "2", "name" : "Work", "adress" : "Alameda"},
